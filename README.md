@@ -13,6 +13,7 @@ keras‚ğ—p‚¢‚ÄA3•b‚Ìº‚ğ3•ª—Ş‚µ‚Ä3í—Ş‚Ìİ’è‚µ‚½‰¹Šy‚ğ—¬‚·GUIƒAƒvƒŠ(PyQt)‚ğì¬’
 [Building a PyQt application to record your microphone and plot its spectrum](https://flothesof.github.io/pyqt-microphone-fft-application.html)  
 [Multi Classification](http://aidiary.hatenablog.com/entry/20161108/1478609028)  
 [ŠÂ‹«‰¹•ª—Ş(ESC-50)](https://github.com/shibuiwilliam/audio_classification_keras/blob/master/esc50_classification.ipynb)  
+[data augmentation](https://www.kaggle.com/CVxTz/audio-data-augmentation)
 
 - —˜_  
 [ƒƒ‹ü”g”ƒPƒvƒXƒgƒ‰ƒ€ŒW” with jupyter](https://qiita.com/martin-d28jp-love/items/34161f2facb80edd999f)  

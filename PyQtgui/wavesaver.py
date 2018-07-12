@@ -21,13 +21,13 @@ class Wavesaver(QWidget):
         self.wave_output_filename = WAVE_OUTPUT_FILENAME
         # QPushButtonの第一引数はラベル
         # QPushButtonの第二引数は親ウィジェット(QWidgetに継承されたExampleウィジェット)
-        qbtn = QPushButton('Recording', self)
+        qbtn = QPushButton('Greet!!!', self)
         #qbtn = QtWidgts.QPushButton('Recording', self)
         qbtn.clicked.connect(self.Record)
         qbtn.resize(qbtn.sizeHint())
         qbtn.move(50, 50)
 
-        self.setGeometry(300, 300, 400, 400)
+        self.setGeometry(300, 300, 300, 200)
         self.setWindowTitle('Recorder')    
         self.show()
         
